@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1613583116 source:c:\users\houss\desktop\houssam\developpement web\s5\c++\td(correcrtion)\td6\exercise 1\main.cpp
+	"head.h"
+
+1613582947 c:\users\houss\desktop\houssam\developpement web\s5\c++\td(correcrtion)\td6\exercise 1\head.h
+	<iostream>
+
+1613583116 source:c:\users\houss\desktop\houssam\developpement web\s5\c++\td(correcrtion)\td6\exercise 1\head.cpp
+	"head.h"
+
